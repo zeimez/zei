@@ -1,4 +1,4 @@
-// https://observablehq.com/@d3/hierarchical-bar-chart@330
+// https://observablehq.com/d3/hierarchical-bar-chart@330
 
 
 function _1(md){return(
