@@ -1,6 +1,6 @@
 // https://observablehq.com/d3/hierarchical-bar-chart@330
 
-<script src="https://d3js.org/d3.v7.min.js"></script>
+
 function _1(md){return(
 md`# Hierarchical Bar Chart
 
