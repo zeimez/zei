@@ -1,8 +1,5 @@
 // https://observablehq.com/@d3/hierarchical-bar-chart@330
 
-var svgString = d3.select("svg").node().parentNode.innerHTML; // récupère le code SVG
-d3.svg.export()
-  .download(svgString, "graphhierarchicalzeineb.html", "text/html"); // télécharge le fichier HTML
 
 function _1(md){return(
 md`# Hierarchical Bar Chart
